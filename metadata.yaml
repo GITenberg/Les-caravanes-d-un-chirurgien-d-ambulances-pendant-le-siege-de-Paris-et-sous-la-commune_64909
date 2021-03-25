@@ -1,11 +1,16 @@
 _repo: Les-caravanes-d-un-chirurgien-d-ambulances-pendant-le-siege-de-Paris-et-sous-la-commune_64909
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64909-h/images/cover.jpg
 creator:
   author:
     agent_name: Joulin, Désiré Joseph
     gutenberg_agent_id: '53093'
     url: http://www.gutenberg.org/2009/agents/53093
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64909#Les-caravanes-d-un-chirurgien-d-ambulances-pendant-le-siege-de-Paris-et-sous-la-commune
 gutenberg_issued: '2021-03-23'
 gutenberg_type: Text
 identifiers:
